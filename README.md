@@ -5,14 +5,15 @@ Atualmente estou fazendo cursos de programação pela internet para melhorar meu
 no momento (03/08/2020) estou fazendo a Next Level Week #2
 A proxima liguagem que pretendo aprender seria C, C++, C# ou Python
 
+Estou sem trabalho por enquanto mas planejo procurar assim que estiver melhor como programador podendo entregar alguma aplicação mesmo sendo simples ou conseguir entrar em projetos grandes com outras pessoas
 
+Meus Passa Tempos são olhar Series, Jogar com os amigos e é claro programar!
 
-
-
-
-
+Para entrar em contato comigo simplesmente mande um email ou uma mensagem no Twiiter!
 
 Meu email para contato é: contato.nedcloar1@gmail.com
+Twiiter: @BrNedcloar
+
 
 
 <!--

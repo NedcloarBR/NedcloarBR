@@ -12,7 +12,7 @@ Meus Passa Tempos são olhar Series, Jogar com os amigos e é claro programar!
 
 Para entrar em contato comigo simplesmente mande um email ou uma mensagem no Twiiter!
 
-![Gmail Badge] Meu email para contato é: contato.nedcloar1@gmail.com
+[![Gmail Badge]] Meu email para contato é: contato.nedcloar1@gmail.com
 Twiiter: @BrNedcloar
 
 

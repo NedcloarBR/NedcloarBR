@@ -4,7 +4,7 @@ Comecei a programar pelo mês 06/2020 iniciando com JavaScript a fim de criar um
 ele se chama N-D-B sigla para Nedcloar's Discord Bot ksks.
 Atualmente estou fazendo cursos de programação pela internet para melhorar meus conhecimentos e ficar cada vez melhor com a programação
 no momento (03/08/2020) estou fazendo a Next Level Week #2
-A proxima liguagem que pretendo aprender seria C, C++, C# ou Python
+A proxima linguagem que pretendo aprender seria C, C++, C# ou Python
 
 Estou sem trabalho por enquanto mas planejo procurar assim que estiver melhor como programador podendo entregar alguma aplicação mesmo sendo simples ou conseguir entrar em projetos grandes com outras pessoas
 

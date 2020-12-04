@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-github-ashen.vercel.app/)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
+[![Spotify](https://spotify-github-ashen.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
 
 ### Contatos:
 

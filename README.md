@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-alpha-swart.vercel.app/)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
+[![Spotify](https://novatorem-alpha-swart.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
 
 ### Contatos:
 

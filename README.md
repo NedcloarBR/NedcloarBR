@@ -2,10 +2,10 @@
 
 ## Sou um Estudante & Dev
 
-- 🔭 Atualmente estou trabalhando no meu [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fdiscord%2Fredirect&scope=bot)!
+- 🔭 Atualmente estou trabalhando no meu [Discord Bot](https://discord.com/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fredirect&scope=bot%20applications.commands)!
 - 🌱 Estou tentando aprender de tudo um pouco
 - 👯 Procuro ajudar pessoas que precisam de ajuda 
-- 🥅 Meta de 2020: Verificar meu [Bot](https://discord.com/api/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fdiscord%2Fredirect&scope=bot)!
+- 🥅 Meta de 2021: Verificar meu [Bot](https://discord.com/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fredirect&scope=bot%20applications.commands)!
 - ⚡ Oque eu gosto: Assistir Animes, Estou viciado em Valorant 🤣
 
 ### Spotify Playing 🎧

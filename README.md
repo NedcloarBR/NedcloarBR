@@ -27,9 +27,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/NedcloarBR/N-D-B)
 [<img align="left" alt="NodeJS" width="26px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" />]()
 [<img align="left" alt="CSharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />]()
-[<img align="left" alt="Visual Basic.net" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" />]()
 [<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png" />]()
-[<img align="left" alt="Google FireBase" width="26px" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/NedcloarBR)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 

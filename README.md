@@ -8,6 +8,9 @@
 - 🥅 Meta de 2021: Verificar meu [Bot](https://discord.com/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fredirect&scope=bot%20applications.commands)!
 - ⚡ Oque eu gosto: Assistir Animes, Estou viciado em Valorant 🤣
 
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/330047048009252864.png" />
+</a>
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-alpha-swart.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)

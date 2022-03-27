@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-status-github-nd.herokuapp.com/)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
+[![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
 
 ### Contatos:
 

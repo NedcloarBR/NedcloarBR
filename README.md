@@ -25,14 +25,14 @@
 
 ### Linguagens e Ferramentas:
 
-[<img align="left" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/NedcloarBR/N-D-B)
-[<img align="left" alt="NodeJS" width="52px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" />]()
-[<img align="left" alt="PostgreSQL" width="52px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />]()
-[<img align="left" alt="MongoDB" width="52px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png" />]()
-[<img align="left" alt="Docker" width="104px" src="https://www.docker.com/wp-content/uploads/2022/01/Docker-Logo-White-RGB_Horizontal-730x189-1.png" />]()
+[<img align="left" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img align="left" alt="NodeJS" width="52px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" />](https://nodejs.org/en/)
+[<img align="left" alt="PostgreSQL" width="52px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />](https://www.postgresql.org/)
+[<img align="left" alt="MongoDB" width="52px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png" />](https://www.mongodb.com/home)
+[<img align="left" alt="Docker" width="104px" src="https://www.docker.com/wp-content/uploads/2022/01/Docker-Logo-White-RGB_Horizontal-730x189-1.png" />](https://www.docker.com/)
 [<img align="left" alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/NedcloarBR)
-[<img align="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHhfLp2ez7AhWGr5UCHe6yBIIQFnoECBQQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fp%2Fwindows-terminal%2F9n0dx20hk701&usg=AOvVaw3yazGFV_DtTkWiRXdfXcFL)
 
 <br/>    
 <br/>

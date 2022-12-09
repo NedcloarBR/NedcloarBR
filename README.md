@@ -50,7 +50,7 @@
 ---
 
 ![NedcloarBR's github stats](https://github-readme-stats.vercel.app/api?username=NedcloarBR&show_icons=true&theme=dark)
-![NedcloarBR's most usage laguages](<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NedcloarBR&layout=compact&langs_count=7&theme=dark"/>)
+![NedcloarBR's most usage laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=NedcloarBR&layout=compact&langs_count=7&theme=dark)
 
 <!--
 # NedcloarBR

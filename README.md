@@ -4,16 +4,16 @@
 
 - 🔭 Atualmente estou trabalhando no meu [Discord Bot](https://discord.com/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fredirect&scope=bot%20applications.commands)!
 - 🌱 Estou tentando aprender de tudo um pouco
-- 👯 Procuro ajudar pessoas que precisam de ajuda 
+- 👯 Procuro ajudar pessoas que precisam de ajuda
 - 🥅 Meta de 2023: Conseguir um emprego na area 🙌
 - ⚡ Oque eu gosto: Assistir Animes, Estou viciado em Valorant 🤣
 
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/330047048009252864.png" />
 </a>
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
+[![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb) -->
 
 ### Contatos:
 
@@ -39,9 +39,10 @@
 
 ---
 
-### 📺 Ultimos Videos YouTube 
+### 📺 Ultimos Videos YouTube
 
 <!-- YOUTUBE:START -->
+
 - Nenhum porque faz tempo que não posto 😕
 <!-- YOUTUBE:END -->
 
@@ -70,7 +71,6 @@ Para entrar em contato comigo simplesmente mande um email ou uma mensagem no Twi
 Meu email para contato é: contato.nedcloar1@gmail.com
 Twiiter: @BrNedcloar
 -->
-
 
 <!--
 **NedcloarBR/NedcloarBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

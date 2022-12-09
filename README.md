@@ -26,11 +26,11 @@
 ### Linguagens e Ferramentas:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="Visual Studio" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/c/cd/Visual_Studio_2017_Logo.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/NedcloarBR/N-D-B)
 [<img align="left" alt="NodeJS" width="26px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" />]()
-[<img align="left" alt="CSharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />]()
+[<img align="left" alt="PostgreSQL" width="26px" src="https://pt.wikipedia.org/wiki/PostgreSQL#/media/Ficheiro:Postgresql_elephant.svg" />]()
 [<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png" />]()
+[<img align="left" alt="Docker" width="26px" src="https://en.wikipedia.org/wiki/Docker,_Inc.#/media/File:Docker_(container_engine)_logo.svg" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/NedcloarBR)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 

@@ -1,40 +1,75 @@
-### Olá me chamo Miguel mais conhecido como NedcloarBR(Ned)
-
-## Sou um Estudante & Dev
+### Olá me chamo Miguel Alexandre Uhlein mais conhecido na internet como NedcloarBR
 
 - 🔭 Atualmente estou trabalhando no meu [Discord Bot](https://discord.com/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fredirect&scope=bot%20applications.commands)!
 - 🌱 Estou tentando aprender de tudo um pouco
+- 📚 Analise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 2° Semestre
 - 👯 Procuro ajudar pessoas que precisam de ajuda
-- 🥅 Meta de 2023: Conseguir um emprego na area 🙌
-- ⚡ Oque eu gosto: Assistir Animes, Estou viciado em Valorant 🤣
+- 🥅 Meta de 2024: Conseguir um emprego como Desenvolvedor Backend Junior
+- ⚡ Oque eu gosto: Assistir Animes, Pensar sobre a vida
 
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/330047048009252864.png" />
-</a>
+### Status
 
-<!-- ### Spotify Playing 🎧
+[<img height="80px" src="https://discord.c99.nl/widget/theme-6/330047048009252864.png" />](http://discord.gg/5CHARxbaRk)
 
-[![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb) -->
+[![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
 
-### Contatos:
+<!-- [<img align="center" alt="" width="52px" src="" />]() -->
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCbljj-LSlXuiB1EprNDl8MA)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BrNedcloar)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://top.gg/user/330047048009252864)
+### Contatos
 
+[<img align="center" alt="LinkedIn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/miguel-alexandre-uhlein-7979a71b0/)
+[<img align="center" alt="Twitter | X" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" />](https://twitter.com/BrNedcloar)
+[<img align="center" alt="Discord" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](http://discord.gg/5CHARxbaRk)
 <br />
 
-### Linguagens e Ferramentas:
+### Linguagens
 
-[<img align="left" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img align="left" alt="NodeJS" width="52px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" />](https://nodejs.org/en/)
-[<img align="left" alt="PostgreSQL" width="52px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />](https://www.postgresql.org/)
-[<img align="left" alt="MongoDB" width="52px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png" />](https://www.mongodb.com/home)
-[<img align="left" alt="Docker" width="104px" src="https://www.docker.com/wp-content/uploads/2022/01/Docker-Logo-White-RGB_Horizontal-730x189-1.png" />](https://www.docker.com/)
-[<img align="left" alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/NedcloarBR)
-[<img align="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHhfLp2ez7AhWGr5UCHe6yBIIQFnoECBQQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fp%2Fwindows-terminal%2F9n0dx20hk701&usg=AOvVaw3yazGFV_DtTkWiRXdfXcFL)
+[<img align="center" alt="TypeScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+[<img align="center" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img align="center" alt="NodeJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" />](https://nodejs.org/en/)
+[<img align="center" alt="C-ANSI" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-plain.svg" />](https://www.w3schools.com/c/)
+[<img align="center" alt="C++" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" />](https://www.w3schools.com/cPP/)
+[<img align="center" alt="C#" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img align="center" alt="Rust" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" />](https://www.rust-lang.org/)
+[<img align="center" alt="Python" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />](https://www.python.org/)
+[<img align="center" alt="HTML" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="center" alt="CSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-<br/>    
+### Frameworks/Libraries
+
+[<img align="center" alt="NestJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />](https://nestjs.com/)
+[<img align="center" alt="ReactJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" />](https://react.dev/)
+[<img align="center" alt="TailwindCSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
+[<img align="center" alt="DiscordJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/discordjs/discordjs-original.svg" />](https://discord.js.org/)
+[<img align="center" alt="Necord" width="52px" src="https://cdn.discordapp.com/emojis/983768394757193851.webp" />](https://necord.org/)
+
+### Banco de Dados
+
+[<img align="center" alt="PostgreSQL" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" />](https://www.postgresql.org/)
+[<img align="center" alt="MongoDB" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" />](https://www.mongodb.com/)
+[<img align="center" alt="Redis" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" />](https://redis.io/)
+
+### Ferramentas
+
+[<img align="center" alt="Visual Studio Code" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
+[<img align="center" alt="Figma" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" />](https://www.figma.com/)
+[<img align="center" alt="Yarn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/yarn/yarn-original.svg" />](https://yarnpkg.com/)
+[<img align="center" alt="NPM" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)
+[<img align="center" alt="Git" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />](https://git-scm.com/)
+[<img align="center" alt="GitHub" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />](https://github.com/NedcloarBR)
+[<img align="center" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://apps.microsoft.com/detail/9N0DX20HK701)
+[<img align="center" alt="Bash" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
+[<img align="center" alt="Docker" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" />](https://www.docker.com/)
+[<img align="center" alt="Amazon Web Services" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" />](https://aws.amazon.com/)
+[<img align="center" alt="Apache Kafka" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original.svg" />](https://kafka.apache.org/)
+
+### Sistemas Operacionais
+
+[<img align="center" alt="Windows 11" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" />](https://www.microsoft.com/pt-br/windows)
+[<img align="center" alt="Linux" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />](https://kernel.org/)
+[<img align="center" alt="Ubuntu" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" />](https://ubuntu.com/)
+[<img align="center" alt="Android" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" />](https://www.android.com/)
+
 <br/>
 
 ---

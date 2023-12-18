@@ -54,7 +54,7 @@
 [<img align="center" alt="Visual Studio Code" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
 [<img align="center" alt="Figma" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" />](https://www.figma.com/)
 [<img align="center" alt="Yarn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/yarn/yarn-original.svg" />](https://yarnpkg.com/)
-[<img align="center" alt="NPM" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)
+[<img align="center" alt="NPM" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/~nedcloarbr)
 [<img align="center" alt="Git" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />](https://git-scm.com/)
 [<img align="center" alt="GitHub" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />](https://github.com/NedcloarBR)
 [<img align="center" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://apps.microsoft.com/detail/9N0DX20HK701)

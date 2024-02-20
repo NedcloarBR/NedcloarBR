@@ -30,16 +30,16 @@
 [<img align="center" alt="C-ANSI" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-plain.svg" />](https://www.w3schools.com/c/)
 [<img align="center" alt="C++" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" />](https://www.w3schools.com/cPP/)
 [<img align="center" alt="C#" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img align="center" alt="Rust" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" />](https://www.rust-lang.org/)
+[<img align="center" alt="Rust" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-original.svg" />](https://www.rust-lang.org/)
 [<img align="center" alt="Python" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />](https://www.python.org/)
 [<img align="center" alt="HTML" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="center" alt="CSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Frameworks/Libraries
 
-[<img align="center" alt="NestJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />](https://nestjs.com/)
+[<img align="center" alt="NestJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-original.svg" />](https://nestjs.com/)
 [<img align="center" alt="ReactJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" />](https://react.dev/)
-[<img align="center" alt="TailwindCSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
+[<img align="center" alt="TailwindCSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" />](https://tailwindcss.com/)
 [<img align="center" alt="DiscordJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/discordjs/discordjs-original.svg" />](https://discord.js.org/)
 [<img align="center" alt="Necord" width="52px" src="https://cdn.discordapp.com/emojis/983768394757193851.webp" />](https://necord.org/)
 

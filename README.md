@@ -60,7 +60,7 @@
 [<img align="center" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://apps.microsoft.com/detail/9N0DX20HK701)
 [<img align="center" alt="Bash" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
 [<img align="center" alt="Docker" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" />](https://www.docker.com/)
-[<img align="center" alt="Amazon Web Services" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" />](https://aws.amazon.com/)
+[<img align="center" alt="Amazon Web Services" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/)
 [<img align="center" alt="Apache Kafka" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original.svg" />](https://kafka.apache.org/)
 
 ### Sistemas Operacionais

@@ -80,7 +80,9 @@
 ### 📺 Ultimos Videos YouTube
 
 <!-- YOUTUBE:START -->
-
+- [Ace de KAY/O #shorts](https://www.youtube.com/watch?v=bAuyE7RYg5s)
+- [Unboxing do Gabinete Gamamax Revolt e finalizando a montagem do meu PC &lpar;Parte 2&rpar;](https://www.youtube.com/watch?v=WPvjhX9J6FA)
+- [Montando meu PC novo parte 1](https://www.youtube.com/watch?v=_JIOc2PMlf4)
 <!-- YOUTUBE:END -->
 
 ➡️ [Mais videos...](https://www.youtube.com/channel/UCbljj-LSlXuiB1EprNDl8MA)

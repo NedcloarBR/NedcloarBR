@@ -81,7 +81,6 @@
 
 <!-- YOUTUBE:START -->
 
-- Nenhum porque faz tempo que não posto 😕
 <!-- YOUTUBE:END -->
 
 ➡️ [Mais videos...](https://www.youtube.com/channel/UCbljj-LSlXuiB1EprNDl8MA)

@@ -35,6 +35,7 @@
 [<img align="center" alt="HTML" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="center" alt="CSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="center" alt="Java" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" />](https://www.java.com/)
+[<img align="center" alt="PHP" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" />](https://www.php.net/)
 
 ### Frameworks/Libraries
 

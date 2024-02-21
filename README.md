@@ -34,6 +34,7 @@
 [<img align="center" alt="Python" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />](https://www.python.org/)
 [<img align="center" alt="HTML" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="center" alt="CSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="center" alt="Java" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" />](https://www.java.com/)
 
 ### Frameworks/Libraries
 
@@ -52,12 +53,14 @@
 ### Ferramentas
 
 [<img align="center" alt="Visual Studio Code" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
+[<img align="center" alt="Notion" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/notion/notion-original.svg" />](https://www.notion.so/)
 [<img align="center" alt="Figma" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" />](https://www.figma.com/)
 [<img align="center" alt="Yarn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/yarn/yarn-original.svg" />](https://yarnpkg.com/)
 [<img align="center" alt="NPM" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/~nedcloarbr)
 [<img align="center" alt="Git" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />](https://git-scm.com/)
 [<img align="center" alt="GitHub" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />](https://github.com/NedcloarBR)
 [<img align="center" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://apps.microsoft.com/detail/9N0DX20HK701)
+[<img align="center" alt="Powershell" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />](https://github.com/PowerShell/PowerShell)
 [<img align="center" alt="Bash" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
 [<img align="center" alt="Docker" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" />](https://www.docker.com/)
 [<img align="center" alt="Amazon Web Services" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/)
@@ -67,7 +70,7 @@
 
 [<img align="center" alt="Windows 11" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" />](https://www.microsoft.com/pt-br/windows)
 [<img align="center" alt="Linux" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />](https://kernel.org/)
-[<img align="center" alt="Ubuntu" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" />](https://ubuntu.com/)
+[<img align="center" alt="Ubuntu" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-original.svg" />](https://ubuntu.com/)
 [<img align="center" alt="Android" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" />](https://www.android.com/)
 
 <br/>

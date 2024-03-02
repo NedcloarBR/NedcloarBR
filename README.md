@@ -92,6 +92,7 @@
 
 ![NedcloarBR's github stats](https://github-readme-stats.vercel.app/api?username=NedcloarBR&show_icons=true&theme=dark)
 ![NedcloarBR's most usage laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=NedcloarBR&layout=compact&langs_count=8&theme=dark)
+[![NedcloarBR's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NedcloarBR&layout=compact&theme=dark)](https://wakatime.com/@NedcloarBR)
 
 <!--
 # NedcloarBR

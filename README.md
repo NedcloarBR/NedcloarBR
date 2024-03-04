@@ -13,8 +13,6 @@
 
 [![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
 
-<!-- [<img align="center" alt="" width="52px" src="" />]() -->
-
 ### Contatos
 
 [<img align="center" alt="LinkedIn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/miguel-alexandre-uhlein-7979a71b0/)
@@ -27,15 +25,9 @@
 [<img align="center" alt="TypeScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
 [<img align="center" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img align="center" alt="NodeJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" />](https://nodejs.org/en/)
-[<img align="center" alt="C-ANSI" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-plain.svg" />](https://www.w3schools.com/c/)
-[<img align="center" alt="C++" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" />](https://www.w3schools.com/cPP/)
-[<img align="center" alt="C#" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-plain.svg" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img align="center" alt="Rust" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-original.svg" />](https://www.rust-lang.org/)
-[<img align="center" alt="Python" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />](https://www.python.org/)
 [<img align="center" alt="HTML" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="center" alt="CSS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="center" alt="Java" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" />](https://www.java.com/)
-[<img align="center" alt="PHP" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" />](https://www.php.net/)
 
 ### Frameworks/Libraries
 
@@ -60,12 +52,10 @@
 [<img align="center" alt="NPM" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/~nedcloarbr)
 [<img align="center" alt="Git" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />](https://git-scm.com/)
 [<img align="center" alt="GitHub" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />](https://github.com/NedcloarBR)
-[<img align="center" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://apps.microsoft.com/detail/9N0DX20HK701)
 [<img align="center" alt="Powershell" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />](https://github.com/PowerShell/PowerShell)
 [<img align="center" alt="Bash" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
 [<img align="center" alt="Docker" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" />](https://www.docker.com/)
 [<img align="center" alt="Amazon Web Services" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/)
-[<img align="center" alt="Apache Kafka" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original.svg" />](https://kafka.apache.org/)
 
 ### Sistemas Operacionais
 
@@ -93,37 +83,3 @@
 ![NedcloarBR's github stats](https://github-readme-stats.vercel.app/api?username=NedcloarBR&show_icons=true&theme=dark)
 ![NedcloarBR's most usage laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=NedcloarBR&layout=compact&langs_count=8&theme=dark)
 [![NedcloarBR's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NedcloarBR&layout=compact&theme=dark)](https://wakatime.com/@NedcloarBR)
-
-<!--
-# NedcloarBR
-## Olá eu sou o Miguel
-Comecei a programar pelo mês 06/2020 iniciando com JavaScript a fim de criar um Bot para meus servidores no Discord
-ele se chama N-D-B sigla para Nedcloar's Discord Bot ksks.
-Atualmente estou fazendo cursos de programação pela internet para melhorar meus conhecimentos e ficar cada vez melhor com a programação
-no momento (03/08/2020) estou fazendo a Next Level Week #2
-A proxima linguagem que pretendo aprender seria C, C++, C# ou Python
-
-Estou sem trabalho por enquanto mas planejo procurar assim que estiver melhor como programador podendo entregar alguma aplicação mesmo sendo simples ou conseguir entrar em projetos grandes com outras pessoas
-
-Meus Passa Tempos são olhar Series, Jogar com os amigos e é claro programar!
-
-Para entrar em contato comigo simplesmente mande um email ou uma mensagem no Twiiter!
-
-Meu email para contato é: contato.nedcloar1@gmail.com
-Twiiter: @BrNedcloar
--->
-
-<!--
-**NedcloarBR/NedcloarBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

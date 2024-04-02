@@ -68,6 +68,14 @@
 
 ---
 
+### TODO
+| Project |            Name           |                                                                                                  Description                                                                                                  |
+|:-------:|:-------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    1    | @nedcloarbr/nestjs-prisma | An [NPM](https://www.npmjs.com/) package to facilitate the connection between [Prisma](https://www.prisma.io/) and [NestJS](https://nestjs.com/) with some methods to facilitate the use of ORM within NestJS |
+|    2    |       Fipe Automate       |                                 A desktop application to automate the search for vehicle values in the [FIPE](https://veiculos.fipe.org.br/) table through their code and year                                |
+|    3    |         Sticky-Wpp        |                                                                  A mobile app full of sticker packs for [WhatsApp](https://www.whatsapp.com/)                                                                 |
+---
+
 ### 📺 Ultimos Videos YouTube
 
 <!-- YOUTUBE:START -->

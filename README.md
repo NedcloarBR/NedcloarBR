@@ -1,11 +1,11 @@
-### Olá me chamo Miguel Alexandre Uhlein mais conhecido na internet como NedcloarBR
+### Hello! I'm Miguel Alexandre Uhlein
 
-- 🔭 Atualmente estou trabalhando no meu [Discord Bot](https://discord.com/oauth2/authorize?client_id=708822043420000366&permissions=8&redirect_uri=http%3A%2F%2Flocalhost%3A3001%2Fapi%2Fauth%2Fredirect&scope=bot%20applications.commands)!
-- 🌱 Estou tentando aprender de tudo um pouco
-- 📚 Analise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 2° Semestre
-- 👯 Procuro ajudar pessoas que precisam de ajuda
-- 🥅 Meta de 2024: Conseguir um emprego como Desenvolvedor Backend Junior
-- ⚡ Oque eu gosto: Assistir Animes, Pensar sobre a vida
+- 🔭 Actualy I'm working in [N-D-B](https://github.com/NedcloarBR/N-D-B)
+- 🌱 I'm trying to learn a little bit of everything
+- 📚 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 2° Semester
+- 👯 Help people in Open Source projects
+- 🥅 2024's Goal: Get a job as Junior Backend Developer
+- ⚡ Watch I like: Animes, Valorant, Study 
 
 ### Status
 
@@ -13,14 +13,14 @@
 
 [![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
 
-### Contatos
+### Contacts
 
 [<img align="center" alt="LinkedIn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/miguel-alexandre-uhlein-7979a71b0/)
 [<img align="center" alt="Twitter | X" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" />](https://twitter.com/BrNedcloar)
 [<img align="center" alt="Discord" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](http://discord.gg/5CHARxbaRk)
 <br />
 
-### Linguagens
+### Languages
 
 [<img align="center" alt="TypeScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
 [<img align="center" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -37,13 +37,13 @@
 [<img align="center" alt="DiscordJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/discordjs/discordjs-original.svg" />](https://discord.js.org/)
 [<img align="center" alt="Necord" width="52px" src="https://cdn.discordapp.com/emojis/983768394757193851.webp" />](https://necord.org/)
 
-### Banco de Dados
+### Databases
 
 [<img align="center" alt="PostgreSQL" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" />](https://www.postgresql.org/)
 [<img align="center" alt="MongoDB" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" />](https://www.mongodb.com/)
 [<img align="center" alt="Redis" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" />](https://redis.io/)
 
-### Ferramentas
+### Tools
 
 [<img align="center" alt="Visual Studio Code" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
 [<img align="center" alt="Notion" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/notion/notion-original.svg" />](https://www.notion.so/)
@@ -57,7 +57,7 @@
 [<img align="center" alt="Docker" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" />](https://www.docker.com/)
 [<img align="center" alt="Amazon Web Services" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/)
 
-### Sistemas Operacionais
+### Opering Systems
 
 [<img align="center" alt="Windows 11" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" />](https://www.microsoft.com/pt-br/windows)
 [<img align="center" alt="Linux" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />](https://kernel.org/)
@@ -75,7 +75,7 @@
 |    2    |         Sticky-Wpp        |                                                                  A mobile app full of sticker packs for [WhatsApp](https://www.whatsapp.com/)                                                                 |
 ---
 
-### 📺 Ultimos Videos YouTube
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Ace de KAY/O #shorts](https://www.youtube.com/watch?v=bAuyE7RYg5s)
@@ -83,7 +83,7 @@
 - [Montando meu PC novo parte 1](https://www.youtube.com/watch?v=_JIOc2PMlf4)
 <!-- YOUTUBE:END -->
 
-➡️ [Mais videos...](https://www.youtube.com/channel/UCbljj-LSlXuiB1EprNDl8MA)
+➡️ [More videos...](https://www.youtube.com/channel/UCbljj-LSlXuiB1EprNDl8MA)
 
 ---
 

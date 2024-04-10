@@ -57,7 +57,7 @@
 [<img align="center" alt="Docker" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" />](https://www.docker.com/)
 [<img align="center" alt="Amazon Web Services" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/)
 
-### Opering Systems
+### Operating SystemS
 
 [<img align="center" alt="Windows 11" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" />](https://www.microsoft.com/pt-br/windows)
 [<img align="center" alt="Linux" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />](https://kernel.org/)

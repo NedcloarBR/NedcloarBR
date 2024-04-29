@@ -1,6 +1,7 @@
 ### Hello! I'm Miguel Alexandre Uhlein
 
-- 🔭 Actualy I'm working in [N-D-B](https://github.com/NedcloarBR/N-D-B)
+- 👑 Founder/Owner of [N-D-B](https://github.com/N-D-B-Project/N-D-B)
+- 🔭 Actualy I'm working in
 - 🌱 I'm trying to learn a little bit of everything
 - 📚 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 2° Semester
 - 👯 Help people in Open Source projects

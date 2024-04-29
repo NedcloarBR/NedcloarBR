@@ -1,6 +1,6 @@
 ### Hello! I'm Miguel Alexandre Uhlein
 
-- 👑 Founder/Owner of [N-D-B](https://github.com/N-D-B-Project/N-D-B)
+- 👑 Founder/Owner of [N-D-B](https://github.com/N-D-B-Project/)
 - 🔭 Actualy I'm working in my progression
 - 🌱 I'm trying to learn a little bit of everything
 - 📚 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 2° Semester

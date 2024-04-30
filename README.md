@@ -6,7 +6,7 @@
 - 📚 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 2° Semester
 - 👯 Help people in Open Source projects
 - 🥅 2024's Goal: Get a job as Junior Backend Developer
-- ⚡ Watch I like: Animes, Valorant, Study 
+- ⚡ What I like: Animes, Valorant, Study 
 
 ### Status
 

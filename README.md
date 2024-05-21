@@ -72,8 +72,8 @@
 ### TODO
 | Project |            Name           |                                                                                                  Description                                                                                                  |
 |:-------:|:-------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|    1    |       Fipe Automate       |                                 A desktop application to automate the search for vehicle values in the [FIPE](https://veiculos.fipe.org.br/) table through their code and year                                |
-|    2    |         Sticky-Wpp        |                                                                  A mobile app full of sticker packs for [WhatsApp](https://www.whatsapp.com/)                                                                 |
+|    1    |       [Fipe Automate](https://github.com/NedcloarBR/Fipe-Automate.git)       |                                 A desktop application to automate the search for vehicle values in the [FIPE](https://veiculos.fipe.org.br/) table through their code and year                                |
+|    2    |         [Sticky-Wpp](https://github.com/NedcloarBR/Sticky-Wpp.git)        |                                                                  A mobile app full of sticker packs for [WhatsApp](https://www.whatsapp.com/)                                                                 |
 ---
 
 ### 📺 Latest YouTube Videos

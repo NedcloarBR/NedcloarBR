@@ -53,6 +53,7 @@
 [<img align="center" alt="NPM" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/~nedcloarbr)
 [<img align="center" alt="Git" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />](https://git-scm.com/)
 [<img align="center" alt="GitHub" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />](https://github.com/NedcloarBR)
+[<img align="center" alt="Warp" width="52px" src="https://assets-global.website-files.com/64b6f3636f598299028e8577/653024a36ae7b9b3ea53d451_Warp%20-%20Glyph.svg" />](https://www.warp.dev/)
 [<img align="center" alt="Powershell" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />](https://github.com/PowerShell/PowerShell)
 [<img align="center" alt="Bash" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
 [<img align="center" alt="Docker" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" />](https://www.docker.com/)

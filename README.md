@@ -15,7 +15,6 @@
 [![Spotify](https://spotify-nedcloarbr.vercel.app/api/spotify)](https://open.spotify.com/user/btzti5ckucqz0rqu1eq56vsjb)
 
 ### Contacts
-
 [<img align="center" alt="LinkedIn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/miguel-alexandre-uhlein-7979a71b0/)
 [<img align="center" alt="Twitter | X" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" />](https://twitter.com/BrNedcloar)
 [<img align="center" alt="Discord" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](http://discord.gg/5CHARxbaRk)
@@ -23,8 +22,8 @@
 
 ### Languages
 
-[<img align="center" alt="TypeScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
-[<img align="center" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img align="center" alt="TypeScript" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+[<img align="center" alt="JavaScript" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img align="center" alt="NodeJS" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" />](https://nodejs.org/en/)
 [<img align="center" alt="Rust" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-original.svg" />](https://www.rust-lang.org/)
 [<img align="center" alt="HTML" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -50,7 +49,7 @@
 [<img align="center" alt="Notion" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/notion/notion-original.svg" />](https://www.notion.so/)
 [<img align="center" alt="Figma" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" />](https://www.figma.com/)
 [<img align="center" alt="Yarn" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/yarn/yarn-original.svg" />](https://yarnpkg.com/)
-[<img align="center" alt="NPM" width="52px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/~nedcloarbr)
+[<img align="center" alt="NPM" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/~nedcloarbr)
 [<img align="center" alt="Git" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />](https://git-scm.com/)
 [<img align="center" alt="GitHub" width="52px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />](https://github.com/NedcloarBR)
 [<img align="center" alt="Warp" width="52px" src="https://assets-global.website-files.com/64b6f3636f598299028e8577/653024a36ae7b9b3ea53d451_Warp%20-%20Glyph.svg" />](https://www.warp.dev/)

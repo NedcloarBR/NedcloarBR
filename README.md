@@ -3,7 +3,7 @@
 - 👑 Founder/Owner of [N-D-B](https://github.com/N-D-B-Project/)
 - 🔭 Actualy I'm working in my progression
 - 🌱 I'm trying to learn a little bit of everything
-- 📚 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 2° Semester
+- 📚 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 3° Semester
 - 👯 Help people in Open Source projects
 - 🥅 2024's Goal: Get a job as Junior Backend Developer
 - ⚡ What I like: Animes, Valorant, Study 

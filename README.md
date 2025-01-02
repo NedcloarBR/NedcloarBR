@@ -3,10 +3,10 @@
 - 👑 Owner of [N-D-B](https://github.com/N-D-B-Project/) Discord Bot
 - 🔭 Actualy I'm working in my progression
 - 🌱 I'm trying to learn a little bit of everything
-- 🎓 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 3° Semester
+- 🎓 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 4° Semester
 - 📚 Check out my [Study Repositories](https://github.com/NedcloarBR-Study)
 - 👯 Help people in Open Source projects
-- 🥅 2024's Goal: Get a job as Junior Backend Developer
+- 🥅 2025's Goal: Get a job as Junior Backend Developer
 - ⚡ What I like: Animes, Valorant, Study 
 
 ### Status

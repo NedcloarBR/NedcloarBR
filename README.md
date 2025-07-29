@@ -5,8 +5,8 @@
 - 🌱 I'm trying to learn a little bit of everything
 - 🎓 Análise e Desenvolvimento de Sistemas - Fatec Senai Porto Alegre - 4° Semester
 - 📚 Check out my [Study Repositories](https://github.com/NedcloarBR-Study)
+- 💼 Software Implementation Intern at [@Versotech](https://github.com/somosversotech/)
 - 👯 Help people in Open Source projects
-- 🥅 2025's Goal: Get a job as Junior Backend Developer
 - ⚡ What I like: Animes, Valorant, Study 
 
 ### Status
